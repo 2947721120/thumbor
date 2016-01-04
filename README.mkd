@@ -27,7 +27,7 @@ http://<thumbor-server>/300x200/smart/s.glbimg.com/et/bb/f/original/2011/03/24/V
 
 还有其他一些功能对图像URL配置。您可以检查它们在使用页。
 
-For more information check [thumbor's
+欲了解更多信息检查 [thumbor's
 documentation](https://github.com/thumbor/thumbor/wiki "thumbor docs").
 
 ### 演示
